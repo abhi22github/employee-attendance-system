@@ -31,6 +31,3 @@ A **complete Employee Attendance Tracking System** with **Employee** and **Manag
 
 **Live Demo**: [https://abhi22github.github.io/employee-attendance-system](https://abhi22github.github.io/employee-attendance-system)
 
-## 🚀 **Quick Start**
-
-### 1. **Live Demo** (Instant)
