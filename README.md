@@ -1,66 +1,36 @@
-# Employee Attendance System
+# Employee Attendance System 🚀
 
-A simple attendance tracking system built with HTML, CSS, and JavaScript (no backend).
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=github)](https://abhi22github.github.io/employee-attendance-system)
+[![HTML/CSS/JS](https://img.shields.io/badge/Tech-HTML_CSS_JS-blue?logo=javascript)](https://github.com/abhi22github/employee-attendance-system)
+[![License](https://img.shields.io/badge/License-MIT-yellow?logo=mit)](LICENSE)
 
-## Tech Stack
+A **complete Employee Attendance Tracking System** with **Employee** and **Manager** roles. Built with pure **HTML, CSS, JavaScript** using `localStorage` for data persistence. All project requirements implemented.
 
-- Frontend: HTML, CSS, JavaScript
-- Data: `localStorage`
+## ✨ **Features**
 
-## Features
+### 👨‍💼 **Employee Features** ✅
+- [x] Register/Login
+- [x] Mark Attendance (Check In / Check Out)
+- [x] View Attendance History (Calendar + Table)
+- [x] Monthly Summary (Present/Absent/Late/Half-day)
+- [x] Dashboard with Stats & Quick Check In/Out
 
-### Employee
-- Register / Login
-- Mark attendance (Check In / Check Out)
-- View attendance history (table & calendar)
-- View monthly summary
-- Dashboard with stats
+### 👨‍👩‍💼 **Manager Features** ✅
+- [x] View All Employees Attendance
+- [x] Filter by Employee/Date/Status
+- [x] Team Attendance Summary
+- [x] Export Reports (CSV)
+- [x] Dashboard with Charts & Absent List
 
-### Manager
-- Login
-- View all employees' attendance
-- Filter by employee, date, status
-- View team summary
-- Export reports (CSV)
-- Dashboard with team stats
+## 📱 **Demo Accounts**
 
-## Pages
+| Role | Email | Password | Employee ID | Department |
+|------|-------|----------|-------------|------------|
+| **Manager** | `manager@example.com` | `manager123` | `EMP001` | HR |
+| **Employee** | `employee@example.com` | `employee123` | `EMP002` | IT |
 
-### Employee
-- Login / Register
-- Dashboard
-- Mark Attendance
-- My Attendance History
-- Profile
+**Live Demo**: [https://abhi22github.github.io/employee-attendance-system](https://abhi22github.github.io/employee-attendance-system)
 
-### Manager
-- Login
-- Dashboard
-- All Employees Attendance
-- Team Calendar View
-- Reports
+## 🚀 **Quick Start**
 
-## How to Run
-
-1. Clone this repository.
-2. Open `index.html` in a browser (or use Live Server in VS Code).
-3. Use these accounts to test:
-   - Manager: `manager@example.com` / `manager123`
-   - Employee: `employee@example.com` / `employee123`
-
-## Environment Variables
-
-This is a frontend-only app. No environment variables needed.
-
-## Screenshots
-
-- Login page
-- Employee Dashboard
-- Mark Attendance
-- My History
-- Manager Dashboard
-- Reports
-
-## Seed Data
-
-The app includes sample users and attendance records in `js/data.js`.
+### 1. **Live Demo** (Instant)
