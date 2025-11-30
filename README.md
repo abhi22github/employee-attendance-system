@@ -1,8 +1,8 @@
 # Employee Attendance System 🚀
 
-#Done by Abhishek S
-#Easwari Engineering College 
-#9789179369
+**Done by Abhishek S**
+**Easwari Engineering College**
+**9789179369**
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=github)](https://abhi22github.github.io/employee-attendance-system)
 [![HTML/CSS/JS](https://img.shields.io/badge/Tech-HTML_CSS_JS-blue?logo=javascript)](https://github.com/abhi22github/employee-attendance-system)
